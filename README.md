@@ -1,4 +1,4 @@
-# Hi, I’m Georgi 👋
+# Hi, I’m George 👋
 
 🎯 **Goal:** .NET Backend Developer  
 🧠 Currently learning: **C# → ASP.NET Core → Databases**  
@@ -36,23 +36,23 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=valchev0&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valchev0&layout=compact)
 
 ---
 
 ## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=USERNAME)
+![Streak](https://streak-stats.demolab.com?user=valchev0)
 
 ---
 
 ## 📈 Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valchev0)
 
 ---
 
 ## 📫 Contact
-- GitHub: @USERNAME
+- GitHub: @valchev0
 
 <!--
 **valchev0/valchev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
