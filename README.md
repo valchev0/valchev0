@@ -36,9 +36,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=valchev0&show_icons=true&hide_title=true&cache_seconds=86400&v=2)
+![Stats](https://YOUR-VERCEL-APP.vercel.app/api?username=valchev0&show_icons=true&hide_title=true)
+![Top Langs](https://YOUR-VERCEL-APP.vercel.app/api/top-langs?username=valchev0&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=valchev0&layout=compact&cache_seconds=86400&v=2)
 
 
 
