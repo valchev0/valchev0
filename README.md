@@ -36,8 +36,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=valchev0&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valchev0&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=valchev0&show_icons=true&hide_title=true&theme=github_dark&hide_border=true&cache_seconds=86400&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valchev0&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1)
+
 
 ---
 
