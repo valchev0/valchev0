@@ -49,7 +49,8 @@
 ---
 
 ## 📈 Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valchev0)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valchev0&theme=github-compact&hide_border=true&v=1)
+
 
 ---
 
