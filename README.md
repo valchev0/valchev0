@@ -36,12 +36,10 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://raw.githubusercontent.com/valchev0/valchev0/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valchev0&theme=github_dark)
 
 ## 🧠 Top Languages
-![](https://raw.githubusercontent.com/valchev0/valchev0/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valchev0&theme=github_dark)
 
 
 
