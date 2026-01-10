@@ -42,7 +42,8 @@
 ---
 
 ## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=valchev0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=valchev0&theme=github-dark&hide_border=true&v=1)
+
 
 ---
 
