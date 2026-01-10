@@ -1,7 +1,7 @@
 # Hi, I’m George 👋
 
-🎯 **Goal:** .NET Backend Developer  
-🧠 Currently learning: **C# → ASP.NET Core → Databases**  
+🎯 **Goal:** C# Full Stack Developer  
+🧠 Currently learning: **C# OOP**  
 🌍 Based in the UK | 🇧🇬 Bulgarian
 
 ---
@@ -27,6 +27,8 @@
 - C# Advanced + C# OOP
 - C# DB
 - C# Web
+- HTML & CSS + JS Front-End
+- Software Engineering and DevOps + Containers and Cloud
 
 ---
 
