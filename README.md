@@ -59,6 +59,6 @@
 
 ---
 
-## 📫 Contact
-- GitHub: @valchev0
-
+### 📫 Contact
+[![GitHub](https://img.shields.io/badge/GitHub-@valchev0-181717?logo=github&logoColor=white)](https://github.com/valchev0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Georgi%20Valchev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-valchev-257428159/)
