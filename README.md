@@ -39,7 +39,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valchev0&theme=github_dark)
 
 ## 🧠 Top Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valchev0&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valchev0&theme=github_dark)
+
 
 
 
